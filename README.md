@@ -16,15 +16,13 @@
 <p>代码区块：</p>
 <pre><code>四个空格即可建立代码区块或者用该标签把代码区块包起来</code></pre>
 
-Here is an example of AppleScript:
-
+    Here is an example of AppleScript:
     tell application "Foo"
         beep
     end tell
 //必须要加标签还是直接写即可自动转换成段落和代码区块  
-尝试换行
+  尝试换行
 <div class="footer">
         &copy; 2004 Foo Corporation
 </div>
-//无缩进就不显示？  
-
+//无缩进就不显示？
